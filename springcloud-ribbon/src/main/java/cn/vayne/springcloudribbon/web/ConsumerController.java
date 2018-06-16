@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * @Author: WangKun
- * @Description:
+ * @Description: test git
  * @Date: Created in 2018/4/20 下午4:37
  * @ProjectName: springcloud-v1
  * @Version: 1.0.0
